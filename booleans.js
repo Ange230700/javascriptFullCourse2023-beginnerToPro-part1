@@ -1,6 +1,12 @@
 // TODO: refactor the function later
 // TODO: add some parameters to the function later
 
+// update score object
+// save it in local storage by converting it to a string
+// load it from local storage by converting it back to an object
+
+
+
 function RPSrock() {
     let randomNumber = Math.random();
     let computerChoice;
