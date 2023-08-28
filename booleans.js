@@ -1,5 +1,6 @@
 // TODO: refactor the function later
 // TODO: add some parameters to the function later
+// TODO: code over the RPS game later
 
 // update score object
 // save it in local storage by converting it to a string
